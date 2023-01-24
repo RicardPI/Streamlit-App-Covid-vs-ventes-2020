@@ -12,3 +12,10 @@ Es tracta d'una app desarrollada amb streamlit que serveix per visualitzar com v
 Clicar en el següent enllaç per tal d'utilitzar l'app:
 
 https://ricardpi-streamlit-app-covid-vs-ventes-2020-srcdashboard-nsnp0z.streamlit.app/
+
+## Composició del repositori
+
+* Arxiu notebook on es fa l'EDA i la unió de les dades de transacció amb les dades de morts de covid durant el 2020:
+https://github.com/RicardPI/Streamlit-App-Covid-vs-ventes-2020/blob/main/src/Practica%202%20EDA.ipynb
+
+* 
