@@ -19,13 +19,17 @@ https://ricardpi-streamlit-app-covid-vs-ventes-2020-srcdashboard-nsnp0z.streamli
 https://github.com/RicardPI/Streamlit-App-Covid-vs-ventes-2020/blob/main/src/Practica%202%20EDA.ipynb
 
 * Arxiu on hi ha el codi del dashboard desenvolupat amb streamlit:
+
 https://github.com/RicardPI/Streamlit-App-Covid-vs-ventes-2020/blob/main/src/dashboard.py
 
 * Arxiu requirements.txt
+
 https://github.com/RicardPI/Streamlit-App-Covid-vs-ventes-2020/blob/main/src/requirements.txt
 
 * Les dades amb que es desenvolupa el projecte:
+
 https://github.com/RicardPI/Streamlit-App-Covid-vs-ventes-2020/tree/main/Data
 
 * L'enviroment per tal d'executar tan el notebook com el .py (equivalent al requirements.txt): 
+
 https://github.com/RicardPI/Streamlit-App-Covid-vs-ventes-2020/tree/main/Environment
