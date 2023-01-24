@@ -1,2 +1,9 @@
 # Streamlit-App-Covid-vs-ventes-2020
-Es tracta d'una app desarrollada amb streamlit que serveix per visualitzar com van evolucionar les ventes el el sector alimentari durant les onades de covid a la provincia de Girona.
+
+Assignatura: M2.959 Visualització de dades / Semestre: 2022-1 / Data: 24-01-2022
+
+## Autor
+  * Ricard Piqué Inglada - [ricardpique@gmail.com](email@gmail.com)
+
+## Descripció del repositori
+Es tracta d'una app desarrollada amb streamlit que serveix per visualitzar com van evolucionar les ventes de certes families de productes del sector alimentari durant les onades de covid a la provincia de Girona.
